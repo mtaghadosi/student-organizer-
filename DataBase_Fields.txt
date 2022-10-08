@@ -1,0 +1,17 @@
+// This file Contains the DataBase Fields:
+// Created By Mohammad Taghadosi
+
+FirstName(char)
+FamilyName(char)
+ShomareyeShenasname(char)
+FatherName(char)
+Grade(char)
+StudiedField(char)
+Address(varchar)
+SelectedField(char)
+NumberOfSessions(char)
+TotalMoney(char)
+NumberOfHeldSessions(char)
+NumberOfRemainingSessions(char)
+PayedMoney(char)
+UnpayedMoney(char)

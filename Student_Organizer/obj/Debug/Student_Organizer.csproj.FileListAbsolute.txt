@@ -1,0 +1,11 @@
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\bin\Debug\Student_Organizer.exe
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\bin\Debug\Student_Organizer.pdb
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\ResolveAssemblyReference.cache
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.frmMain.resources
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.GUI.frmStudentInfo.resources
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.Properties.Resources.resources
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.csproj.GenerateResource.Cache
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.exe
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.pdb
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.GUI.NewClass.resources
+E:\Working And Private Area\My Programs\Student_Organizer\Student_Organizer\obj\Debug\Student_Organizer.GUI.frmEditAndSeeInfos.resources
